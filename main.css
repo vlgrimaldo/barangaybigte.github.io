@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+header{
+    position: fixed;
+    width: 100vw;
+}
+h1{
+    padding: 1rem;
+    text-align: center;
+    background: linear-gradient(to left, #3535f5, #f72e2e);
+    color: #fff;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background: #555;
+    padding: .5rem;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    margin: 1rem;
+    letter-spacing: 2px;
+}
+section{
+    padding: 10rem 10vw;
+    text-align: center;
+}
+p{
+    font-weight: lighter;
+    margin-bottom: 1rem;
+    font-size: 20vw;
+}
+.btn{
+    background: #3535f5;
+    padding: 1rem;
+    border-radius: 5rem;
+}
+h3{
+    font-size: 3rem;
+}
+.chairwoman{
+    background: #3535f5;
+    color: #fff;
+    padding: 5rem 10vw;
+}
+.chairwoman p{
+    margin-bottom: 0;
+}
+img{
+    width: 20rem;
+}
+h2 p, h2{
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
